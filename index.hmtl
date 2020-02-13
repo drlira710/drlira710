@@ -1,0 +1,83 @@
+<html>
+  <head> 
+    <link rel="stylesheet" href="./style.css" type="text/css">
+
+    <!-- write your hero's name here in the <title> element  -->
+    <title></title>
+  </head>
+
+  <body>
+
+    <div class="container">
+      <div  class="jumbotron">
+        <div class="row">
+          <div class="col-xs-12">
+            <h1 class="text-center">
+              <!-- Main Heading; Give the person's name; use <h1> -->
+              <h1 class="text-center">Neymar Jr.</h1>
+            </h1>
+            <!-- Subheading; use <h2>  -->
+            <h2 class="text-center"><em>One of the best soccer players in the world</em></h2>
+            <div class="thumbnail"><img 
+
+                                        <!-- place and image here; use an image already on the internet -->
+              <img src="https://www.fcbarcelonanoticias.com/uploads/s1/29/69/30/neymar-paris-saint-germain-296930.jpeg"
+                   <!-- place a caption under your picture which explains the picture -->
+              <div class="caption text-center">Neymar putting his thumb up</div>    </div>
+          </div>
+          <div>
+            <!-- heading; use <h3>  -->
+            <h3 class="text-center">A brief explination of Neymar Jr</h3>
+            <!-- write a paragraph explaining why your person is so great  -->
+            <p>Neymar da Silva Santos Júnior, commonly known as Neymar Jr. or simply Neymar, is a Brazilian professional footballer who plays as a forward for Ligue 1 club Paris Saint-Germain and the Brazil national team. He is widely considered as one of the best players in the world. Neymar came into prominence at an early age at Santos, where he made his professional debut aged 17. He helped the club win two successive Campeonato Paulista championships, a Copa do Brasil, and the 2011 Copa Libertadores, with the latter being Santos' first since 1963. Neymar was twice named the South American Footballer of the Year, in 2011 and 2012, and soon relocated to Europe to join Barcelona. As part of Barça's attacking trio with Lionel Messi and Luis Suárez, he won the continental treble of La Liga, the Copa del Rey, and the UEFA Champions League, and finished third for the FIFA Ballon d'Or in 2015 for his performances. He then attained a domestic double in the 2015–16 season. In 2017, Neymar transferred from Barcelona to Paris Saint-Germain in a move worth €222 million, making him the most expensive player ever.[note 1] In France, he won two league titles, a Coupe de France, and a Coupe de la Ligue, which included a domestic treble and being voted Ligue 1 Player of the Year, in his debut season.[8] Neymar's second season with PSG was heavily injury-riddled and marked by controversies.
+            </p>
+          </div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+          <div>
+            <!-- Timeline heading; use <h3>  -->
+            <h3  class="text-center"> Timeline of Neymar Jr</h3>
+            <!-- create a timeline using an unordered list -->
+
+            <ul>
+
+              <li><strong>- May 1, 2003</strong>- neymar was found</li>
+
+              <li><strong>- March 7, 2009</strong>- professional debut</li>
+
+              <li><strong>- Jan 1, 2010</strong>- first season</li>
+
+              <li><strong>- Apr 10, 2011</strong>- National Team</li>
+
+              <li><strong>- Sep 20, 2011</strong>- South American Footballer of the Year</li>
+
+              <li><strong>- Jan 1, 2012</strong>- Big Money</li>
+
+              <li><strong>- Jun 1, 2012</strong>- 100th Goal and Neymar's deal </li>
+
+              <li><strong>- Mar 3, 2013</strong>- Starting with the deals</li>
+
+              <li><strong>- May 27, 2013</strong>- Signing with Barcelona</li>
+
+              <li><strong>- Jun 1, 2013</strong>- Confederation Cup</li>
+
+              <blockquote>
+                </ul>
+              <!-- use the <p> to display a famous quote from your hero -->    
+              <p> "The secret is to believe in your dreams; in your potential that you can be like your star, keep searching, keep believing and don’t lose faith in yourself."  </p>
+              <!-- don't forget the quoter's name here --> 
+              <footer><cite>&nbsp;&nbsp;&nbsp; Neymar Jr      </cite></footer>
+              </blockquote>
+            <!-- using the <h3> and the <a>, invite the reader to visit a wiki page concerning your hero  -->
+            <h3>Visit this link to learn more about Neymar Jr https://en.wikipedia.org/wiki/Neymar</h3>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer>
+      <!--  use the <hr> to create a horizontal line separating the footer section --> <hr>
+
+      <!--  using the <p>, take ownership of your page  -->
+      <p>  Diego Ruiz       </p>
+    </footer>
+    </div>
+  </body>
+</html>
